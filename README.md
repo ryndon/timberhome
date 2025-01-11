@@ -1,3 +1,3 @@
 # timberhome
 
-Building design and plans for the Teton TimberHome.
+Building designs and plans for the Teton TimberHome.
